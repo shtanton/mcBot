@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "discord.io": "woor/discord.io#gateway_v6"
+  },
+  "scripts": {
+    "start": "node src/main.js"
+  }
+}
